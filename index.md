@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Rebecca Gerola>
+title: Rebecca Gerola
 ---
 
 ## About Me
