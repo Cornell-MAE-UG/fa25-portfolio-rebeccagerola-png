@@ -6,7 +6,7 @@ title: Rebecca Gerola
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "headshot.jpg" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and Hi! My name is Rebecca Gerola and I am a third-year student at Cornell University. I am pursuing my Bachelor's degree in Mechanical Engineering with a minor in Robotics. 
