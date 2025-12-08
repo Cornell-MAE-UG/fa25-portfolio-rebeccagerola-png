@@ -1,13 +1,13 @@
 ---
 layout: project
-title: Spaceship Design
+title: MAE 3270 Torque Wrench Design
 description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+technologies: [Fusion, ANSYS Mechanical, Granta Material Database]
 image: /assets/images/spaceship-design.jpg
 ---
 
 
-In 2021, NASA asked me to design a spaceship...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+For this project, I designed a torque wrench by first performing hand calculations in MATLAB to size the critical cross-sections and ensure compliance with the required factors of safety for yield, fracture, and fatigue. These calculations established the baseline geometry, which I then modeled parametrically in Fusion for further refinement. I selected Aluminum 7075-T6 as the primary material due to its high specific strength and weight efficiency relative to steels commonly used in similar tools.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+The finalized model was imported into ANSYS, where I conducted linear static, fracture, and fatigue analyses to validate the design. The simulation results confirmed that the maximum von Mises stress remained below allowable limits, the stress-intensity factors were well under the critical KIC for 7075-T6, and the predicted fatigue life exceeded the assignment’s minimum safety requirements. Overall, the workflow integrated analytical sizing, CAD-based optimization, and finite-element verification to produce a structurally sound torque-wrench design..
 
