@@ -10,5 +10,5 @@ For this project, I designed a torque wrench by first performing hand calculatio
 
 The finalized model was imported into ANSYS, where I conducted linear static, fracture, and fatigue analyses to validate the design. The simulation results confirmed that the maximum von Mises stress remained below allowable limits, the stress-intensity factors were well under the critical KIC for 7075-T6, and the predicted fatigue life exceeded the assignment’s minimum safety requirements. Overall, the workflow integrated analytical sizing, CAD-based optimization, and finite-element verification to produce a structurally sound torque-wrench design.
 
-
+[Click here for my CV]({{ "/materialsfinal.pdf" | relative_url }})!
 
