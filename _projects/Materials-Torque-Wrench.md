@@ -6,7 +6,7 @@ technologies: [Fusion, ANSYS Mechanical, Granta Material Database]
 image: /assets/images/materialswrench.jpg
 ---
 
-[Click here for my final write-up]({{ "/materialsfinal.pdf" | relative_url }})!
+[Click here for my final write-up]({{ "/assets/materialsfinal.pdf" | relative_url }})!
 
 For this project, I designed a torque wrench by first performing hand calculations in MATLAB to size the critical cross-sections and ensure compliance with the required factors of safety for yield, fracture, and fatigue. These calculations established the baseline geometry, which I then modeled parametrically in Fusion for further refinement. I selected Aluminum 7075-T6 as the primary material due to its high specific strength and weight efficiency relative to steels commonly used in similar tools.
 
