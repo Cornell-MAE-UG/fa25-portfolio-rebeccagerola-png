@@ -29,8 +29,8 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Skills
 - **Software:** Autodesk Fusion 360, SolidWorks  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting, Lathe, Mill  
+- **Programming:** Python, MATLAB, ANSYS, Fusion, Solidworks
+- **Tools:** 3D Printing, Lathe, Mill 
 
 ---
 
